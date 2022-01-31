@@ -33,10 +33,10 @@ complete it, especially if you’ve not forked and set up a repository like this
 
 3. You can now change directories into `hci-production-problems` and then the `pp-00` directory,
    where you should now have this file, `readme.md`, on your local computer. Open the file in your
-   editor, and write below the URL to your fork of the GitHub repository, and the add and commit
+   editor, and write below the URL to your fork of the GitHub repository, and then add and commit
    this file:
 
-   My Production Problems repository URL:
+   My Production Problems repository URL: https://github.com/Tylwyz/hci-production-problems
 
 4. Next, push your commit to GitHub. `git push origin main` from your command line. That is all you
    need to do to submit future Production Problems. **There is no need to open a pull request.** So
