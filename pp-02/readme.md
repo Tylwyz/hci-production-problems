@@ -20,15 +20,15 @@ Your Rationale:  I picked this palette because green represents new beginnings a
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=50D0u0kvOE5k8NwpCIdBlrZC6kI
+Your Rationale: I picked this pallete because when I think of spring I think about flowers and it getting warmer outside, so I decided to stay in the warm color family.  I also made the colors brighter so they represent the color of flowers that people may see on the tour.   
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=33D0G0kEDEDkeKGqLGtEIqfI5jf
+Your Rationale: I chose this color palette because I think children usually like things to be more colorful then dull so I made sure to make the colors pop but not so much that it hurts the eyes.  I also picked the palette becuase of the emotions that each color represents with blue being calmness, yellow being happiness, and the red orange to represent energy so that children hopefully pick up on.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: https://paletton.com/#uid=13K190kvwrX35VZpSvWzalKpP2j
+Your Rationale: I picked this color pallete becuase blue represents security and I wanted to make sure that what and black were in there.  The reason for white was is to show that being in cybersecurity is a virtue since you would be protecting people and black is to represent the mysterious and possible evil people you are protecting clients from. 
